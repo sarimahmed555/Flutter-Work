@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995535828722",
+    "project_id": "velvetleashapp-4b8e1",
+    "storage_bucket": "velvetleashapp-4b8e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995535828722:android:4745e6ec57cd7bb50e026b",
+        "android_client_info": {
+          "package_name": "com.example.velvet_leash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQvT_zij83VG7yzbXh7UIhBPJwTpuqZk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995535828722:android:0af0c0519bb75c1e0e026b",
+        "android_client_info": {
+          "package_name": "com.velvetleash.clientapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQvT_zij83VG7yzbXh7UIhBPJwTpuqZk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
